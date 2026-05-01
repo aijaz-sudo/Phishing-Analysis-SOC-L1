@@ -1,0 +1,13 @@
+
+
+
+Case: Phishing URL Investigation
+Source: PhishTank
+Date: 01-May-2026
+Analyst: Aijaz
+
+Phishing URL: https://gwzokx.hnhcwl.cn/nety-wittr/featur
+
+Status: Valid Phish (Online)
+
+Description: This URL was identified as a verified phishing attack targeting users with a fake webpage.
